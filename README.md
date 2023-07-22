@@ -1,5 +1,4 @@
 <h1 align="center"> Hola! Soy Maria Herrera </h1>
-<h3 align="center"> Una Desarrolladora Web Full Stack en formación, apasionada por los colores, ilustraciones, fuentes e interfases gráficas, lo cual me llevó a perseguir el sueño de formarme como programadora y diseñadora web. </h3>
 
 <div>
   <a href="https://github.com/MariaHerrera03">
